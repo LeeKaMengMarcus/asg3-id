@@ -1,6 +1,9 @@
 ### Github page link
 - (https://leekamengmarcus.github.io/asg3-id/)
 
+### Google drive video link
+- https://drive.google.com/file/d/1lS8z5TFytJW91AkozYLScHpCyNH1yEqx/view?usp=sharing
+
 # Your Project's Name
 The name of the project is Mahjii, this project waas created to help people understand the beauty of japanese mahjong
 
