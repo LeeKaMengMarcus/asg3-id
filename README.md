@@ -52,6 +52,9 @@ For any scenarios that have not been automated, test the user stories manually a
 2. navigation bar in different pages:
     1. in different pages, try using the navigation bar 1 by 1,
     2. test out if the buttons will lead to places
+3. media query:
+    1. all the pages will be shrunk to the center where the words will be placed nicely.
+    2. the quiz will be shrunk down as well in order to fit the vertical shape of a phone.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
@@ -61,10 +64,11 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Credits
 https://www.w3schools.com/
-
+https://mahjong.guide/a-beginners-guide-to-riichi-mahjong/
+https://mahjong.guide/a-beginners-guide-to-riichi-mahjong/
+https://wallpapercave.com/cherry-blossom-anime-wallpaper
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 - Informations in Page "Rules" were obtained from the website (https://mahjong.guide/a-beginners-guide-to-riichi-mahjong/)
 
 ### Media
