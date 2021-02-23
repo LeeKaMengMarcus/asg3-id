@@ -62,10 +62,9 @@ The name of the project is Mahjii, this project waas created to help people unde
 - Informations in Page "Rules" were obtained from the website (https://mahjong.guide/a-beginners-guide-to-riichi-mahjong/)
 - https://www.youtube.com/watch?v=u98ROZjBWy8&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx
     playlist to creating the quiz
-    
+
 ### Media
 - The background used through out the project was obtained from (https://wallpapercave.com/cherry-blossom-anime-wallpaper)
 - The photos of tiles used in this project were obtained from (https://mahjong.guide/a-beginners-guide-to-riichi-mahjong/)
 
-### Acknowledgements
 
